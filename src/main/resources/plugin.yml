@@ -1,0 +1,5 @@
+name: BlockTest
+version: ${project.version}
+main: me.Gru2303.BlockTest.Main
+api-version: 1.13
+authors: [Gru2303]
